@@ -13,7 +13,7 @@ setup(
     author = 'Mijian Xu',
     author_email = 'gomijianxu@gmail.com',
     packages = find_packages(), 
-    package_dir = {'mapclick':'src'},
+    package_dir = {'mapclick':'mapclick'},
     include_package_data=True,
     zip_safe=False
 )
